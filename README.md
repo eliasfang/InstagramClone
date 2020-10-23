@@ -36,7 +36,7 @@ GIF created with GIF Maker-Editor.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Had an issue with saving posts but it was due to a type in 'description'
 
 ## Open-source libraries used
 
