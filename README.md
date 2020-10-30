@@ -15,9 +15,9 @@ Part 1
 - [X] User can take a photo, add a caption, and post it to "Instagram".
 
 Part 2
-- [ ] User can view the last 20 posts submitted to "Instagram".
-- [ ] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
+- [X] User can view the last 20 posts submitted to "Instagram".
+- [X] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [X] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -60,6 +60,7 @@ GIF created with GIF Maker-Editor.
 ## Notes
 
 - Had an issue with saving posts but it was due to a typo in 'description'
+- App kept crashing because I forgot to initialize bottomNavigationView
 
 ## Open-source libraries used
 
